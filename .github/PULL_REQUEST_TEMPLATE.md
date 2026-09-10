@@ -2,9 +2,9 @@
 
 <!-- What changed and why? Link ticket/issue if applicable. -->
 
-## Linked PRs
+## Linked Tickets
 
-<!-- Related PRs in other repos, or dependent PRs. Write N/A if none. -->
+<!-- Related Tickets -->
 
 ## How did you test
 
